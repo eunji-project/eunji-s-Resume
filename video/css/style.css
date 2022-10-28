@@ -1,0 +1,14 @@
+*{margin: 0;padding: 0;}
+body {
+    background: url(../images/back.png) no-repeat top;
+}
+iframe{
+    margin: auto;
+    display: block;
+    padding-top: 220px;
+}
+a{ 
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+}
